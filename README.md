@@ -8,20 +8,20 @@
     <header class="header">
         <div class="container">
             <div align="center">
-              <a class="logo" href="/go/"><img src="https://github.com/user-attachments/assets/30bc07f6-7939-4547-9097-b9b5219c8262" alt="Olymp Casino"></a>
+              <a class="logo" href="https://bit.ly/olimpkz"><img src="https://github.com/user-attachments/assets/30bc07f6-7939-4547-9097-b9b5219c8262" alt="Olymp Casino"></a>
             </div>
         </div>
     </header>
     <main class="main">
         <div align="center">
-        <a href="/go/"><img src="https://github.com/user-attachments/assets/ae217507-3e69-421c-a2d0-f06175e67eaa" alt="Олимп Казино"></a>
+        <a href="https://bit.ly/olimpkz"><img src="https://github.com/user-attachments/assets/ae217507-3e69-421c-a2d0-f06175e67eaa" alt="Олимп Казино"></a>
         </div>
         <div class="container">
             <h1 align="center">Добро пожаловать в Olymp Casino</h1>
             <section class="banner">
                 <div class="banner__content">
                     <div align="center">
-                      <h2 class="banner__title"><a href="/go/">Получите бонус до 150000 KZT и 250 фриспинов</a></h2>
+                      <h2 class="banner__title"><a href="https://bit.ly/olimpkz">Получите бонус до 150000 KZT и 250 фриспинов</a></h2>
                     </div>
                 </div>
             </section>
